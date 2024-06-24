@@ -1,0 +1,49 @@
+<div class="main">
+
+        <h6>Our Best Saller</h6>
+        <p><u>See Our Best Saller</u></p>
+
+    <div class="containers">
+        <ng-container *ngFor="let item of productList.slice(0,3)">
+                <div class="row">
+                  <div class="col-md-3">
+                    <div class="card">
+                        <img src="{{item.image}}" alt="web pic"/>
+                        <button>Quick View</button>
+                        <div class="text">
+                            <p>{{item.Name}}</p>
+                        </div>
+                    </div>
+                  </div>
+                  </div>
+
+       
+    </ng-container>
+
+    </div>
+    <div class="containers">
+        <ng-container *ngFor="let item of productList.slice(12,15
+        )">
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="card">
+                        <img src="{{item.image}}" alt="web pic"/>
+                        <button [routerLink]="'/details/' + item.id">Quick View</button>
+                        <div class="text">
+                            <p>{{item.Name}}</p>
+                        </div>
+                    </div>
+                  </div>
+                  </div>
+
+       
+    </ng-container>
+
+    </div>
+    <div class="image">
+        <div class="img">
+            <img src="assets\img\aboutImg.jpg" alt="">
+        </div>
+    </div>
+   
+</div>

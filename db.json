@@ -1,0 +1,290 @@
+{
+  "Mens": [
+    {
+      "id": "1",
+      "Name": "Men Navy Running",
+      "Price": 3500,
+      "image": "assets/img/m1.png",
+      "Shipping": "& Free Shipping",
+      "Discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque voluptates fuga officia sint. Sit nihil impedit eaque quidem esse nam nobis eius molestias officiis. Cum vel at explicabo sapiente ullam est dolor omnis aliquam rerum.",
+      "Categories": "Men Traning"
+    },
+    {
+      "id": "2",
+      "Name": "Men Navy Running",
+      "Price": 4500,
+      "image": "assets/img/m2.png",
+      "Shipping": "& Free Shipping",
+      "Discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque voluptates fuga officia sint. Sit nihil impedit eaque quidem esse nam nobis eius molestias officiis. Cum vel at explicabo sapiente ullam est dolor omnis aliquam rerum.",
+      "Categories": "Men Traning",
+      "Sale": "Sale"
+    },
+    {
+      "id": "3",
+      "Name": "Men Navy Running",
+      "Price": 3000,
+      "image": "assets/img/m3.png",
+      "Shipping": "& Free Shipping",
+      "Discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque voluptates fuga officia sint. Sit nihil impedit eaque quidem esse nam nobis eius molestias officiis. Cum vel at explicabo sapiente ullam est dolor omnis aliquam rerum.",
+      "Categories": "Men Traning"
+    },
+    {
+      "id": "4",
+      "Name": "Men Navy Running",
+      "Price": 2500,
+      "image": "assets/img/m4.png",
+      "Shipping": "& Free Shipping",
+      "Discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque voluptates fuga officia sint. Sit nihil impedit eaque quidem esse nam nobis eius molestias officiis. Cum vel at explicabo sapiente ullam est dolor omnis aliquam rerum.",
+      "Categories": "Men Traning",
+      "Sale": "Sale"
+    },
+    {
+      "id": "5",
+      "Name": "Men Navy Running",
+      "Price": 3500,
+      "image": "assets/img/m5.png",
+      "Shipping": "& Free Shipping",
+      "Discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque voluptates fuga officia sint. Sit nihil impedit eaque quidem esse nam nobis eius molestias officiis. Cum vel at explicabo sapiente ullam est dolor omnis aliquam rerum.",
+      "Categories": "Men Traning",
+      "Sale": "Sale"
+    },
+    {
+      "id": "6",
+      "Name": "Men Navy Running",
+      "Price": 4000,
+      "image": "assets/img/m6.png",
+      "Shipping": "& Free Shipping",
+      "Discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque voluptates fuga officia sint. Sit nihil impedit eaque quidem esse nam nobis eius molestias officiis. Cum vel at explicabo sapiente ullam est dolor omnis aliquam rerum.",
+      "Categories": "Men Traning",
+      "Sale": "Sale"
+    },
+    {
+      "id": "7",
+      "Name": "Men Navy Running",
+      "Price": 4000,
+      "image": "assets/img/m7.png",
+      "Shipping": "& Free Shipping",
+      "Discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque voluptates fuga officia sint. Sit nihil impedit eaque quidem esse nam nobis eius molestias officiis. Cum vel at explicabo sapiente ullam est dolor omnis aliquam rerum.",
+      "Categories": "Men Traning",
+      "Sale": "Sale"
+    },
+    {
+      "id": "8",
+      "Name": "Men Navy Running",
+      "Price": 4000,
+      "image": "assets/img/m8.png",
+      "Shipping": "& Free Shipping",
+      "Discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque voluptates fuga officia sint. Sit nihil impedit eaque quidem esse nam nobis eius molestias officiis. Cum vel at explicabo sapiente ullam est dolor omnis aliquam rerum.",
+      "Categories": "Men Traning",
+      "Sale": "Sale"
+    },
+    {
+      "id": "9",
+      "Name": "Men Navy Running",
+      "Price": 4000,
+      "image": "assets/img/m9.png",
+      "Shipping": "& Free Shipping",
+      "Discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque voluptates fuga officia sint. Sit nihil impedit eaque quidem esse nam nobis eius molestias officiis. Cum vel at explicabo sapiente ullam est dolor omnis aliquam rerum.",
+      "Categories": "Men Traning",
+      "Sale": "Sale"
+    },
+    {
+      "id": "10",
+      "Name": "Men Navy Running",
+      "Price": 4000,
+      "image": "assets/img/m10.png",
+      "Shipping": "& Free Shipping",
+      "Discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque voluptates fuga officia sint. Sit nihil impedit eaque quidem esse nam nobis eius molestias officiis. Cum vel at explicabo sapiente ullam est dolor omnis aliquam rerum.",
+      "Categories": "Men Traning",
+      "Sale": "Sale"
+    },
+    {
+      "id": "11",
+      "Name": "Men Navy Running",
+      "Price": 4000,
+      "image": "assets/img/m11.png",
+      "Shipping": "& Free Shipping",
+      "Discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque voluptates fuga officia sint. Sit nihil impedit eaque quidem esse nam nobis eius molestias officiis. Cum vel at explicabo sapiente ullam est dolor omnis aliquam rerum.",
+      "Categories": "Men Traning",
+      "Sale": "Sale"
+    },
+    {
+      "id": "12",
+      "Name": "Men Navy Running",
+      "Price": 4000,
+      "image": "assets/img/m12.png",
+      "Shipping": "& Free Shipping",
+      "Discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque voluptates fuga officia sint. Sit nihil impedit eaque quidem esse nam nobis eius molestias officiis. Cum vel at explicabo sapiente ullam est dolor omnis aliquam rerum.",
+      "Categories": "Men Traning",
+      "Sale": "Sale"
+    },
+    {
+      "id": "13",
+      "Name": "Women Navy Running",
+      "Price": 3500,
+      "image": "assets/img/w1.png",
+      "Shipping": "& Free Shipping",
+      "Discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque voluptates fuga officia sint. Sit nihil impedit eaque quidem esse nam nobis eius molestias officiis. Cum vel at explicabo sapiente ullam est dolor omnis aliquam rerum.",
+      "Categories": "Men Traning"
+    },
+    {
+      "id": "14",
+      "Name": "Women Navy Running",
+      "Price": 4500,
+      "image": "assets/img/w2.png",
+      "Shipping": "& Free Shipping",
+      "Discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque voluptates fuga officia sint. Sit nihil impedit eaque quidem esse nam nobis eius molestias officiis. Cum vel at explicabo sapiente ullam est dolor omnis aliquam rerum.",
+      "Categories": "Men Traning",
+      "Sale": "Sale"
+    },
+    {
+      "id": "15",
+      "Name": "Women Navy Running",
+      "Price": 3000,
+      "image": "assets/img/w3.png",
+      "Shipping": "& Free Shipping",
+      "Discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque voluptates fuga officia sint. Sit nihil impedit eaque quidem esse nam nobis eius molestias officiis. Cum vel at explicabo sapiente ullam est dolor omnis aliquam rerum.",
+      "Categories": "Men Traning"
+    },
+    {
+      "id": "16",
+      "Name": "Women Navy Running",
+      "Price": 2500,
+      "image": "assets/img/w4.png",
+      "Shipping": "& Free Shipping",
+      "Discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque voluptates fuga officia sint. Sit nihil impedit eaque quidem esse nam nobis eius molestias officiis. Cum vel at explicabo sapiente ullam est dolor omnis aliquam rerum.",
+      "Categories": "Men Traning",
+      "Sale": "Sale"
+    },
+    {
+      "id": "17",
+      "Name": "Women Navy Running",
+      "Price": 3500,
+      "image": "assets/img/w5.png",
+      "Shipping": "& Free Shipping",
+      "Discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque voluptates fuga officia sint. Sit nihil impedit eaque quidem esse nam nobis eius molestias officiis. Cum vel at explicabo sapiente ullam est dolor omnis aliquam rerum.",
+      "Categories": "Men Traning",
+      "Sale": "Sale"
+    },
+    {
+      "id": "18",
+      "Name": "Women Navy Running",
+      "Price": 4000,
+      "image": "assets/img/w6.png",
+      "Shipping": "& Free Shipping",
+      "Discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque voluptates fuga officia sint. Sit nihil impedit eaque quidem esse nam nobis eius molestias officiis. Cum vel at explicabo sapiente ullam est dolor omnis aliquam rerum.",
+      "Categories": "Men Traning",
+      "Sale": "Sale"
+    },
+    {
+      "id": "19",
+      "Name": "Women Navy Running",
+      "Price": 4000,
+      "image": "assets/img/w7.png",
+      "Shipping": "& Free Shipping",
+      "Discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque voluptates fuga officia sint. Sit nihil impedit eaque quidem esse nam nobis eius molestias officiis. Cum vel at explicabo sapiente ullam est dolor omnis aliquam rerum.",
+      "Categories": "Men Traning",
+      "Sale": "Sale"
+    },
+    {
+      "id": "20",
+      "Name": "Women Navy Running",
+      "Price": 4000,
+      "image": "assets/img/w8.png",
+      "Shipping": "& Free Shipping",
+      "Discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque voluptates fuga officia sint. Sit nihil impedit eaque quidem esse nam nobis eius molestias officiis. Cum vel at explicabo sapiente ullam est dolor omnis aliquam rerum.",
+      "Categories": "Men Traning",
+      "Sale": "Sale"
+    },
+    {
+      "id": "21",
+      "Name": "Women Navy Running",
+      "Price": 4000,
+      "image": "assets/img/w9.png",
+      "Shipping": "& Free Shipping",
+      "Discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque voluptates fuga officia sint. Sit nihil impedit eaque quidem esse nam nobis eius molestias officiis. Cum vel at explicabo sapiente ullam est dolor omnis aliquam rerum.",
+      "Categories": "Men Traning",
+      "Sale": "Sale"
+    },
+    {
+      "id": "22",
+      "Name": "Women Navy Running",
+      "Price": 4000,
+      "image": "assets/img/w10.png",
+      "Shipping": "& Free Shipping",
+      "Discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque voluptates fuga officia sint. Sit nihil impedit eaque quidem esse nam nobis eius molestias officiis. Cum vel at explicabo sapiente ullam est dolor omnis aliquam rerum.",
+      "Categories": "Men Traning",
+      "Sale": "Sale"
+    },
+    {
+      "id": "23",
+      "Name": "Women Navy Running",
+      "Price": 4000,
+      "image": "assets/img/w11.png",
+      "Shipping": "& Free Shipping",
+      "Discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque voluptates fuga officia sint. Sit nihil impedit eaque quidem esse nam nobis eius molestias officiis. Cum vel at explicabo sapiente ullam est dolor omnis aliquam rerum.",
+      "Categories": "Men Traning",
+      "Sale": "Sale"
+    },
+    {
+      "id": "24",
+      "Name": "Women Navy Running",
+      "Price": 4000,
+      "image": "assets/img/w12.png",
+      "Shipping": "& Free Shipping",
+      "Discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque voluptates fuga officia sint. Sit nihil impedit eaque quidem esse nam nobis eius molestias officiis. Cum vel at explicabo sapiente ullam est dolor omnis aliquam rerum.",
+      "Categories": "Men Traning",
+      "Sale": "Sale"
+    }
+  ],
+  "cart": [
+    {
+      "id": "d1a8",
+      "productId": "2",
+      "quantity": 4,
+      "image": "assets/img/m2.png",
+      "price": 18000,
+      "type": "Men Traning"
+    },
+    {
+      "id": "3012",
+      "productId": "3",
+      "quantity": 4,
+      "image": "assets/img/m3.png",
+      "price": 12000,
+      "type": "Men Traning"
+    },
+    {
+      "id": "53a8",
+      "productId": "13",
+      "quantity": 1,
+      "image": "assets/img/w1.png",
+      "price": 3500,
+      "type": "Men Traning"
+    },
+    {
+      "id": "3883",
+      "productId": "2",
+      "quantity": 2,
+      "image": "assets/img/m2.png",
+      "price": 9000,
+      "type": "Men Traning"
+    },
+    {
+      "id": "2827",
+      "productId": "5",
+      "quantity": 1,
+      "image": "assets/img/m5.png",
+      "price": 3500,
+      "type": "Men Traning"
+    },
+    {
+      "id": "9e5b",
+      "productId": "20",
+      "quantity": 2,
+      "image": "assets/img/w8.png",
+      "price": 8000,
+      "type": "Men Traning"
+    }
+  ]
+}
